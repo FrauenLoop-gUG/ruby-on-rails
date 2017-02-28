@@ -1,6 +1,10 @@
 # Course Outline #
 
 ## 1.	Week - Introduction to the Web with Ruby on Rails ##
+    * Intro to Web Applications
+    * What is Ruby on Rails?
+    * The Terminal
+    * Intro to the Portfolio assignment
 
 
 

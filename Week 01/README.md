@@ -5,7 +5,7 @@
 - What are Frameworks? What is Rails?
 - Rails overview
   - [First Ruby App](https://www.youtube.com/watch?v=fP64Wvz13AM)
-- Breif Walkthrough of App structure
+- Brief Walkthrough of App structure
 - Terminal basics
 - Hello World Rails (example)
   - Intro to HTML
