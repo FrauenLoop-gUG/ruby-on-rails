@@ -11,4 +11,4 @@ This is a Hello World rails app. Here's how you could run it:
 - Run the rails server  
   `$` `rails server`
 - Open [localhost:3000](http://localhost:3000) in your favourite browser  
-- You should see "Hello World ..."   
+- You should see "Hello World"   
