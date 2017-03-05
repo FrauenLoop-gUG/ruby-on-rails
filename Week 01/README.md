@@ -1,19 +1,22 @@
+# Week 1
+## Introduction to the Web with Ruby on Rails
 - Intro to Web Applications (see ppt)
 - Class Projects (see ppt)
 - What are Frameworks? What is Rails?
 - Rails overview
   - [First Ruby App](https://www.youtube.com/watch?v=fP64Wvz13AM)
-- Breif Walkthrough of App structure
+- Brief Walkthrough of App structure
 - Terminal basics
 - Hello World Rails (example)
   - Intro to HTML
  	- Documents Tags, Attributes and Elements
  	- Set up server and view
 - Git & Github
-  - What is Git? 
+  - What is Git?
   - [Overview](http://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
   - Create a Github account
 
+## Create Your Own Portfolio
 - Intro to Portfolio assignment
   - Why is this useful?
   - examples
@@ -38,11 +41,11 @@
 ##Extras
 
 - Browse these cool websites for inspiration! - http://www.awwwards.com/websites/portfolio/
-  - Awwwards also has a lot of other cool websites that web developers love to explore 
-- Add to your portfolio page! 
+  - Awwwards also has a lot of other cool websites that web developers love to explore
+- Add to your portfolio page!
   - Make a list of things you like to do
   - Make a list of places you have been or lived
   - add a paragraph about who you are
   - add a link to your Facebook
 - Continue with [Codecademy html course](https://www.codecademy.com/courses/web-beginner-en-y2Yjd/0/1?curriculum_id=50579fb998b470000202dc8b) - Do HTML Basics II 1-16
-- Use this [HTML Cheatsheet](http://www.wired.com/2010/02/html_cheatsheet/) to review basic tags and explore other tags 
+- Use this [HTML Cheatsheet](http://www.wired.com/2010/02/html_cheatsheet/) to review basic tags and explore other tags

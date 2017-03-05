@@ -1,0 +1,16 @@
+## Introduction to the Web with Ruby on Rails
+- Intro to Web Applications (see ppt)
+- Class Projects (see ppt)
+- What are Frameworks? What is Rails?
+- Rails overview
+  - [First Ruby App](https://www.youtube.com/watch?v=fP64Wvz13AM)
+- Brief Walkthrough of App structure
+- Terminal basics
+- Hello World Rails (example)
+  - Intro to HTML
+ 	- Documents Tags, Attributes and Elements
+ 	- Set up server and view
+- Git & Github
+  - What is Git?
+  - [Overview](http://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
+  - Create a Github account
