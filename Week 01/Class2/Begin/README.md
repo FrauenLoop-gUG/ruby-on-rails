@@ -21,11 +21,16 @@ Today we'll add more pages to our Hello World app. In the end we'll have simple 
   Don't forget to save.
 - Now open the app/controllers directory and create a new file called `static_pages_controller.rb`
 - Add the following to the file
-```
-class StaticPagesController < ApplicationController
-end
-```
-- Now open the app/views/ and create the direcotry `static_pages` and inside create a file called `hello.html.erb`  
+  ```
+  class StaticPagesController < ApplicationController
+  end
+  ```
+- Just below the line `class StaticPagesController < ApplicationController` add the following  
+  ```
+  def home
+  end
+  ```
+- Now open the app/views/ and create the direcotry `static_pages` and inside create a file called `hello.html.erb`  
   Add following single line of code:  
   `<h1>Home</h1>`
 - Make sure both files are saved and then go back to the Terminal
