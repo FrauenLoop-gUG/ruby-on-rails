@@ -1,4 +1,4 @@
-#Practice with HTML/CSS
+# Practice with HTML/CSS
 
 ## Intro to HTML & CSS
 - CSS overview [CSS introduction](http://www.w3schools.com/css/css_intro.asp)
@@ -14,7 +14,7 @@
 
 - CSS positioning [What display: means](https://kilianvalkhof.com/2008/css-xhtml/understanding-css-positioning-part-1/)
 
-###Extras
+### Extras
 - [FreeCodeCamp](https://www.freecodecamp.com/challenges/say-hello-to-html-elements)
   -  Need more practice with HTML and CSS? Practice makes it much more effortless to create pages with HTML/CSS.
 - Another great way to practice is find a website and try to recreate the entire website exactly as it looks, it will force you to learn a lot!
@@ -58,7 +58,7 @@ Examples:
   6. Choose sign up with email (below the facebook option)
   7. Go to your domain to see your site!
 
-###Extras
+### Extras
 - Commandline Review
 
   - Open the finder
